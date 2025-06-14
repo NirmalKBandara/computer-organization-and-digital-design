@@ -1,5 +1,5 @@
 ---
-Combinational Logic Elements & Systems
+# Combinational Logic Elements & Systems
 ---
 > *"The whole is greater than the sum of its parts."*  
 > — Aristotle
