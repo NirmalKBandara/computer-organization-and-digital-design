@@ -1,7 +1,9 @@
 ---
 # Computer Organization and Digital Design
 ---
+```
 My acadamic work on CODD module
+```
 
 [Logic Circut Representation](https://github.com/NirmalKBandara/computer-organization-and-digital-design/blob/main/logic-circuit-representation.md)
 [Logic Circuit Simplification](https://github.com/NirmalKBandara/computer-organization-and-digital-design/blob/main/logic-circuit-simplification.md)
